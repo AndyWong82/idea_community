@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\work\maven\m3\repository" />
+            <option name="mavenHome" value="D:\program\ideaIC-2020.2.win\plugins\maven\lib\maven3" />
+            <option name="userSettingsFile" value="D:\work\apache-maven-3.5.4\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
