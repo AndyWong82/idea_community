@@ -93,6 +93,37 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.8 (uc_4to5g_win) interpreter library">
+      <CLASSES>
+        <root url="file://D:/program/python38/DLLs" />
+        <root url="file://D:/program/python38/Lib" />
+        <root url="file://D:/program/python38" />
+        <root url="file://D:/workshop/python_workplace/uc_convert4Gto5G/venv_win" />
+        <root url="file://D:/workshop/python_workplace/uc_convert4Gto5G/venv_win/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/408655458" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/program/python38/DLLs" />
+        <root url="file://D:/program/python38/Lib" />
+        <root url="file://D:/program/python38" />
+        <root url="file://D:/workshop/python_workplace/uc_convert4Gto5G/venv_win" />
+        <root url="file://D:/workshop/python_workplace/uc_convert4Gto5G/venv_win/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/408655458" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.8 (uc_web) interpreter library">
       <CLASSES>
         <root url="file://D:/program/python38/DLLs" />
