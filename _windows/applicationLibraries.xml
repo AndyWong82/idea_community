@@ -1,5 +1,50 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file://D:/Python27/Lib/site-packages/scapy-2.3.3-py2.7.egg" />
+        <root url="jar://D:/Python27/Lib/site-packages/http-0.2-py2.7.egg!/" />
+        <root url="file://D:/Python27/Lib/site-packages/image-1.5.16-py2.7.egg" />
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/Python27" />
+        <root url="file://D:/Python27/Lib/site-packages" />
+        <root url="file://D:/Python27/Lib/site-packages/pytesser" />
+        <root url="file://D:/Python27/Lib/site-packages/win32" />
+        <root url="file://D:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://D:/Python27/Lib/site-packages/wx-2.8-msw-unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/1494736245" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Python27/Lib/site-packages/scapy-2.3.3-py2.7.egg" />
+        <root url="jar://D:/Python27/Lib/site-packages/http-0.2-py2.7.egg!/" />
+        <root url="file://D:/Python27/Lib/site-packages/image-1.5.16-py2.7.egg" />
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/Python27" />
+        <root url="file://D:/Python27/Lib/site-packages" />
+        <root url="file://D:/Python27/Lib/site-packages/pytesser" />
+        <root url="file://D:/Python27/Lib/site-packages/win32" />
+        <root url="file://D:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://D:/Python27/Lib/site-packages/wx-2.8-msw-unicode" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/1494736245" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.8 (4gantopt) interpreter library">
       <CLASSES>
         <root url="file://D:/program/python38/DLLs" />
