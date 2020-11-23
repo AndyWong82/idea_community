@@ -6,8 +6,13 @@
           <option name="url" value="http://picao.asuscomm.com:1030" />
           <option name="userName" value="wangjingyu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://192.168.0.11:8015/root/fast.maggi.spark.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\workshop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
