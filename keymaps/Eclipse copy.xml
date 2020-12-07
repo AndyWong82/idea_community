@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="FindInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
